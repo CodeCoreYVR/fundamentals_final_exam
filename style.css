@@ -1,0 +1,64 @@
+.holder {
+  display: flex !important;
+  flex-direction: row !important;
+}
+
+.main{
+  width: 50vw !important;
+}
+
+.img {
+  width: 30px;
+  height: 30px;
+  
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+}
+
+.card {
+  margin: 15px;
+}
+.left {
+margin: 15px;
+}
+
+.vl {
+  border-left: 2px solid black;
+  height: 100vh;
+  margin: 15px;
+}
+
+.navbar-text {
+  margin-right: 50px !important;
+}
+
+a {
+  margin: 20px !important;
+  font-size: x-large;
+  padding: 8px 16px;
+}
+
+a#navbarDropdown {
+  margin-bottom: 40px;
+}
+
+.right {
+  margin-top: 15px;
+}
+img.d-inline-block {
+margin-right: 25px;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  margin-top: 50vh;
+  font-size: xx-large;
+}
+
+a.navbar-brand {
+  font-size: 30px;
+}
